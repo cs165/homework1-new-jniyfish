@@ -53,17 +53,17 @@ nav ul li a:hover {
 
 .bgimg-1 {
     display: flex;
-    background-image: url("https://images.pexels.com/photos/208805/pexels-photo-208805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-image: url("./images/happydog.jpg");
     min-height: 100%;
 }
 
 .bgimg-2 {
-    background-image: url("https://images.pexels.com/photos/674570/pexels-photo-674570.jpeg?cs=srgb&dl=adorable-animal-cat-674570.jpg&fm=jpg");
+    background-image: url("./images/nerddog.jpg");
     min-height: 400px;
 }
 
 .bgimg-3 {
-    background-image: url("https://images.pexels.com/photos/1444492/pexels-photo-1444492.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-image: url("./images/dopeydog.jpg");
     min-height: 400px;
 }
 
